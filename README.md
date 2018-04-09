@@ -16,7 +16,7 @@ positional arguments:
 
 optional arguments:
   -h, --help  show this help message and exit
-  -t HOST     Linux主机:ssh用户名:ssh密码，如 192.168.184.133:root:123
+  -l HOST     Linux主机:ssh用户名:ssh密码，如 192.168.184.133:root:123
   -f FPATH    txt文档的路径，内容为linux中需要传送的所有文件名全路径，一行一个
   -w WPATH    windows保存的目录
 ~~~
