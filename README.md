@@ -2,7 +2,7 @@
 ## 说明
 1、从linux各文件夹挑选一些文件下载到windows；<br>
 2、从Windows上传文件到linux各文件夹；<br>
-3.使用的库：paramiko,os,argparse
+3、使用的库：paramiko,os,argparse
 
 ## 使用
 - 显示帮助
