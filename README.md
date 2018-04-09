@@ -6,7 +6,7 @@
 
 ## 使用
 - 显示帮助
-~~~python
+~~~
 upORdownFromLinux.py -h
 
 程序功能：1、从linux各文件夹挑选一些文件下载到windows；2、从Windows上传文件到linux各文件夹
@@ -21,10 +21,10 @@ optional arguments:
   -w WPATH    windows保存的目录
 ~~~
 - 下载
-~~~python
+~~~
 upORdownFromLinux.py down -l 192.168.184.133:root:123 -f E:\ZP\Desktop\test\test.txt -w E:\ZP\Desktop\test
 ~~~
 - 上传
-~~~python
+~~~
 upORdownFromLinux.py up -l 192.168.184.133:root:123 -f E:\ZP\Desktop\test\test.txt -w E:\ZP\Desktop\test
 ~~~
